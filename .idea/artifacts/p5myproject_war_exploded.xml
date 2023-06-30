@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="p5myproject:war exploded">
+    <output-path>$PROJECT_DIR$/target/p5myproject</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>p5myproject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="p5myproject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-core:6.16.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-util:6.16.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-request:6.16.0" />
+          <element id="library" level="project" name="Maven: org.apache.wicket:wicket-extensions:6.16.0" />
+          <element id="library" level="project" name="Maven: org.mvel:mvel2:2.4.4.Final" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.5" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/p5myproject/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="p5myproject/web/Web" />
+    </root>
+  </artifact>
+</component>

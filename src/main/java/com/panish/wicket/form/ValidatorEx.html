@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:wicket="http://wicket.apache.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Validator Ex</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        .lclass {
+            color:red;
+            font-weight:bold
+        }
+
+        .hclass {
+            color:red;
+            font-weight:bold;
+            font-size: 20px
+        }
+
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div align="left"><a wicket:id="homepage">Home Page</a></div>
+            <div align="center"><label class="hclass">Validation Example</label></div>
+        </div>
+    </div>
+    <hr>
+    <div wicket:id="feedbackPanel"></div>
+    <div class="row">
+        <div class="col-md-12">
+            <form wicket:id="form">
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Email :</label>
+                        <input wicket:id="email" type="text" id="email" /><br/>
+                    </div>
+                    <div class="col-md-4">
+                        <label>Url :</label>
+                        <input wicket:id="url" type="text" id="url" /><br/>
+                    </div>
+                    <div class="col-md-4">
+                        <label>User Name :</label>
+                        <input wicket:id="userName" type="text" id="userName" /><br/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Input Value conversion :</label>
+                        <input wicket:id="integerField" type="text" id="text" />
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-12">
+                        <span><input type="submit" value="Submit" /></span>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

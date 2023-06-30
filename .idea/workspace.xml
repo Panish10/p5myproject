@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="p5myproject:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee748f72-5c7e-4f8f-b4a0-852f1206407e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>helloMessage</find>
+      <find>sites</find>
+      <find>style</find>
+      <find>ajaxLink</find>
+      <find>username</find>
+      <find>panel</find>
+      <find>feedback</find>
+      <find>setFi</find>
+      <find>modelsEx</find>
+      <find>RepeatingView</find>
+      <find>radio</find>
+      <find>add</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/hello/Hello.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/model/LoginForm2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/modelsex/ModelsEx.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/modelsex/ModelsEx.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/InterceptorEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/ListEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/MvelUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/ListMapArrayEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/IParent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/Premium.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/RiskData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/model/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/mvel/TestExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/xslt/staff-simple.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/xslt/staff-xml-html.xslt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/xslt/XsltXmlToHtmlDomParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/file/CountWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/textfiles/CountWorld.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/copy/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/copy/BookingElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/copy/StudentImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/session/sessoin1.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/hello/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/MyApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/login/LoginForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/MyApplication.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/form/validator/UsernameValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/form/ValidatorEx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/form/ValidatorEx.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/fileupload/FileUploadEx.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/fileupload/FileUploadEx.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/staff-xml-html.xslt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/testexample/TestExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/home/Hello.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/home/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/repeatingview/RepeatingViewPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/wicket/repeatingview/RepeatingViewPage.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/java8/Java8Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/inheritance/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/inheritance/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/inheritance/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/inter/Barn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/inter/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/panish/collection/ArrayListDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="checksumPolicy" value="FAIL" />
+        <option name="failureBehavior" value="FAST" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.8.5\conf\settings_org.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="p5myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p5myproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\wicket\p5myproject\src\main\java\com\panish\wicket\home" />
+      <recent name="D:\workspace\wicket\p5myproject\src\main\resources\textfiles" />
+      <recent name="D:\workspace\wicket\p5myproject\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\wicket\p5myproject\src\main\java\com\panish\layout" />
+      <recent name="D:\workspace\wicket\p5myproject\src\main\java\com\panish\hello" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.local">
+    <configuration name="mvn_build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-U" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.78" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="p5myproject:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/p5myproject_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_78_p5myproject" />
+        <option name="HTTP_PORT" value="8091" />
+        <option name="JNDI_PORT" value="1079" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55215" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="p5myproject:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mvn_build" />
+      <item itemvalue="Tomcat Server.local" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee748f72-5c7e-4f8f-b4a0-852f1206407e" name="Default Changelist" comment="" />
+      <created>1650097374693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650097374693</updated>
+      <workItem from="1650097382175" duration="15377000" />
+      <workItem from="1650379084377" duration="8810000" />
+      <workItem from="1650562185038" duration="4526000" />
+      <workItem from="1650694507593" duration="12691000" />
+      <workItem from="1650988043913" duration="1618000" />
+      <workItem from="1651033636967" duration="656000" />
+      <workItem from="1651163244154" duration="9231000" />
+      <workItem from="1651296743759" duration="8411000" />
+      <workItem from="1651639280179" duration="5227000" />
+      <workItem from="1651812824407" duration="16421000" />
+      <workItem from="1651899647858" duration="15272000" />
+      <workItem from="1652156528458" duration="2138000" />
+      <workItem from="1652421436886" duration="5033000" />
+      <workItem from="1653633205038" duration="1263000" />
+      <workItem from="1653715350755" duration="7387000" />
+      <workItem from="1653754221307" duration="1157000" />
+      <workItem from="1653798461718" duration="610000" />
+      <workItem from="1653837814791" duration="649000" />
+      <workItem from="1653915475644" duration="1144000" />
+      <workItem from="1654334424823" duration="923000" />
+      <workItem from="1654399294999" duration="29000" />
+      <workItem from="1655300790718" duration="1513000" />
+      <workItem from="1655397491998" duration="136000" />
+      <workItem from="1655448514269" duration="13000" />
+      <workItem from="1655448596870" duration="1950000" />
+      <workItem from="1655699365887" duration="649000" />
+      <workItem from="1656071591356" duration="2006000" />
+      <workItem from="1657431340278" duration="66000" />
+      <workItem from="1657512235612" duration="1777000" />
+      <workItem from="1657599229897" duration="611000" />
+      <workItem from="1657685860565" duration="1210000" />
+      <workItem from="1658134474835" duration="727000" />
+      <workItem from="1658232242724" duration="2770000" />
+      <workItem from="1658289882008" duration="90000" />
+      <workItem from="1658488914099" duration="1601000" />
+      <workItem from="1658820175557" duration="6236000" />
+      <workItem from="1658895148897" duration="660000" />
+      <workItem from="1658940073727" duration="679000" />
+      <workItem from="1658980918501" duration="49000" />
+      <workItem from="1659682844717" duration="1213000" />
+      <workItem from="1659944114116" duration="2463000" />
+      <workItem from="1660018484325" duration="19000" />
+      <workItem from="1660219850348" duration="2452000" />
+      <workItem from="1660734536652" duration="5787000" />
+      <workItem from="1660753655061" duration="1406000" />
+      <workItem from="1660790104350" duration="2758000" />
+      <workItem from="1660807937900" duration="2033000" />
+      <workItem from="1660881199913" duration="34000" />
+      <workItem from="1660883532596" duration="914000" />
+      <workItem from="1660922103115" duration="595000" />
+      <workItem from="1660969449022" duration="405000" />
+      <workItem from="1662180484838" duration="4247000" />
+      <workItem from="1662719212525" duration="2251000" />
+      <workItem from="1662784641714" duration="1977000" />
+      <workItem from="1662955957570" duration="592000" />
+      <workItem from="1663042623189" duration="17742000" />
+      <workItem from="1663131465631" duration="2235000" />
+      <workItem from="1663144604204" duration="953000" />
+      <workItem from="1663222098856" duration="2734000" />
+      <workItem from="1663226041792" duration="1684000" />
+      <workItem from="1663674508936" duration="1383000" />
+      <workItem from="1664081845624" duration="3440000" />
+      <workItem from="1664165457652" duration="3296000" />
+      <workItem from="1664252380602" duration="1272000" />
+      <workItem from="1664337388757" duration="607000" />
+      <workItem from="1667214289512" duration="2489000" />
+      <workItem from="1667276196033" duration="1187000" />
+      <workItem from="1670825453994" duration="2656000" />
+      <workItem from="1671689574692" duration="131000" />
+      <workItem from="1672230313177" duration="876000" />
+      <workItem from="1674822566868" duration="267000" />
+      <workItem from="1675226642234" duration="1379000" />
+      <workItem from="1676012257294" duration="80000" />
+      <workItem from="1676353441306" duration="1235000" />
+      <workItem from="1676451559704" duration="62000" />
+      <workItem from="1678086746351" duration="1045000" />
+      <workItem from="1678117153068" duration="1396000" />
+      <workItem from="1678246886470" duration="237000" />
+      <workItem from="1683089831408" duration="85000" />
+      <workItem from="1683091555244" duration="35000" />
+      <workItem from="1683172721183" duration="5000" />
+      <workItem from="1683263834266" duration="17000" />
+      <workItem from="1684239980990" duration="1911000" />
+      <workItem from="1684383448322" duration="4000" />
+      <workItem from="1685609839082" duration="725000" />
+      <workItem from="1685612522239" duration="95000" />
+      <workItem from="1685612666764" duration="918000" />
+      <workItem from="1686067463758" duration="1633000" />
+      <workItem from="1686115151529" duration="34000" />
+      <workItem from="1686378252463" duration="273000" />
+      <workItem from="1686378717411" duration="12000" />
+      <workItem from="1686464198713" duration="1237000" />
+      <workItem from="1688107996331" duration="2455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="228287000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.37755102" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49829933" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932885" weight="0.3265306" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.30893117" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.32482994" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/SuccessPage.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/UserPage.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/xslt/XsltXmlToHtmlDomParser.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/copy/StudentImpl.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/wicket/fileupload/FileUploadEx.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/panish/collection/ArrayListDemo.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/util/ArrayList.java</url>
+          <line>165</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>System.getProperty(&quot;java.io.tmpdir&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parameters.get(&quot;username&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/MyApplication.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="102" selection-start-column="102" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/wicket/wicket-core/6.16.0/wicket-core-6.16.0-sources.jar!/org/apache/wicket/validation/CompoundValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="51" lean-forward="true" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/SuccessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/form/ValidatorEx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/MyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/fileupload/FileUploadEx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/fileupload/FileUploadEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/xslt/XsltXmlToHtmlDomParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="73" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/staff-simple.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/staff-xml-html.xslt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="2938" column="53" selection-start-line="2938" selection-start-column="47" selection-end-line="2938" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1912" column="11" selection-start-line="1912" selection-start-column="11" selection-end-line="1912" selection-end-column="11" />
+          <folding>
+            <element signature="e#82174#82175#0" expanded="true" />
+            <element signature="e#82258#82259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/testexample/TestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="66" column="62" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/mvel/TestExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/mvel/MvelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/mvel/InterceptorEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/mvel/ListMapArrayEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/UserPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/home/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="95" column="46" lean-forward="true" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/modelsex/ModelsEx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="57" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/repeatingview/RepeatingViewPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/modelsex/ModelsEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/repeatingview/RepeatingViewPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/inheritance/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/inheritance/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/inheritance/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/inter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#119#198#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/inter/Barn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/wicket/wicket-core/6.16.0/wicket-core-6.16.0-sources.jar!/org/apache/wicket/markup/html/WebComponent.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/wicket/wicket-core/6.16.0/wicket-core-6.16.0-sources.jar!/org/apache/wicket/markup/html/basic/Label.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/form/validator/UsernameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/form/ValidatorEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/model/LoginForm2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/hello/UserPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="100" column="39" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4368#4376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/ajaxex/AjaxEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/copy/StudentImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/java8/Java8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/collection/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4471">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/io/FilePermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11849">
+          <caret line="736" selection-start-line="736" selection-end-line="736" />
+          <folding>
+            <element signature="e#23450#23451#0" expanded="true" />
+            <element signature="e#23503#23504#0" expanded="true" />
+            <element signature="e#25529#25530#0" expanded="true" />
+            <element signature="e#25570#25571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/security/Permissions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5304">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/sun/launcher/LauncherHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7497">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/sun/instrument/InstrumentationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5763">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/panish/wicket/home/Hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/com/panish/hello/Hello.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/java/jdk-8.0.202.08/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
+          <folding>
+            <element signature="e#7348#7349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>dom4jrrrrr</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:wicket="http://wicket.apache.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>JugTemplate</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <wicket:link>
+        <link href="../wicketLayout_files/jquery-ui.css" rel="stylesheet" type="text/css">
+        <link href="../wicketLayout_files/new_style.css" rel="stylesheet" type="text/css">
+        <link href="../wicketLayout_files/print.css" rel="stylesheet" media="print" type="text/css">
+    </wicket:link>
+</head>
+<body>
+    <div id="header" wicket:id="headerPanel">header</div>
+    <div id="body">
+        <div id="menu" wicket:id="menuPanel">menu</div>
+        <div id="content" wicket:id="contentComponent">content</div>
+    </div>
+    <div id="footer" wicket:id="footerPanel">footer</div>
+</body>
+</html>
