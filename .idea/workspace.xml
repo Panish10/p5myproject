@@ -6,7 +6,234 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee748f72-5c7e-4f8f-b4a0-852f1206407e" name="Default Changelist" comment="" />
+    <list default="true" id="ee748f72-5c7e-4f8f-b4a0-852f1206407e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/com/panish/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/com/panish/hello/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/collection/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/copy/BookingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/copy/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/copy/StudentImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/file/CountWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inheritance/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inheritance/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inheritance/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inter/Barn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inter/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/inter/TestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/java8/Java8Test$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/java8/Java8Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/InterceptorEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/InterceptorEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/ListMapArrayEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/MvelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/TestExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/model/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/mvel/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/session/sessoin1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/testexample/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/testexample/TestExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/MyApplication.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/ajaxex/AjaxEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/ajaxex/AjaxEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/ajaxex/AjaxEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/ajaxex/AjaxEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/fileupload/FileUploadEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/fileupload/FileUploadEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/fileupload/FileUploadEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/fileupload/FileUploadEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/form/ValidatorEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/form/ValidatorEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/form/ValidatorEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/form/ValidatorEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/form/validator/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/SuccessPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/SuccessPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/SuccessPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/UserPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/UserPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/UserPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/UserPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/hello/validation/StrongPasswordValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/home/Hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/layout/HeaderPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/layout/HeaderPanel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/layout/JugTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/layout/JugTemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/login/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/login/LoginForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/login/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/login/LoginForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/LoginForm2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/LoginForm2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/LoginForm2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/LoginForm2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/modelsex/ModelsEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/modelsex/ModelsEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/modelsex/ModelsEx$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/modelsex/ModelsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/modelsex/ModelsEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/repeatingview/RepeatingViewPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/repeatingview/RepeatingViewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/repeatingview/RepeatingViewPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/accoglienza.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/home.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_firefox.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_jug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_jug4tenda.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_jugancona.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_latendadabramo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/logo_spring.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/new_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/news.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/ospite.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/wicket/wicketLayout_files/sf_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/panish/xslt/XsltXmlToHtmlDomParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/package.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff-simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff-xml-html.xslt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/textfiles/CountWorld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/collection/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/copy/BookingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/copy/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/copy/StudentImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/file/CountWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inheritance/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inheritance/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inheritance/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inter/Barn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inter/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/inter/TestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/java8/Java8Test$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/java8/Java8Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/InterceptorEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/InterceptorEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/ListMapArrayEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/MvelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/TestExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/model/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/mvel/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/session/sessoin1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/testexample/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/testexample/TestExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/MyApplication.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/ajaxex/AjaxEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/ajaxex/AjaxEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/ajaxex/AjaxEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/ajaxex/AjaxEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/fileupload/FileUploadEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/fileupload/FileUploadEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/fileupload/FileUploadEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/fileupload/FileUploadEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/form/ValidatorEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/form/ValidatorEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/form/ValidatorEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/form/ValidatorEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/form/validator/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/SuccessPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/SuccessPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/SuccessPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/UserPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/UserPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/UserPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/UserPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/hello/validation/StrongPasswordValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/home/Hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/layout/HeaderPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/layout/HeaderPanel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/layout/JugTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/layout/JugTemplate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/login/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/login/LoginForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/login/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/login/LoginForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/LoginForm2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/LoginForm2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/LoginForm2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/LoginForm2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/modelsex/ModelsEx$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/modelsex/ModelsEx$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/modelsex/ModelsEx$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/modelsex/ModelsEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/modelsex/ModelsEx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/repeatingview/RepeatingViewPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/repeatingview/RepeatingViewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/repeatingview/RepeatingViewPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/accoglienza.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/home.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_firefox.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_jug.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_jug4tenda.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_jugancona.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_latendadabramo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/logo_spring.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/new_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/news.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/ospite.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/wicket/wicketLayout_files/sf_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/com/panish/xslt/XsltXmlToHtmlDomParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/package.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/staff-simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/staff-xml-html.xslt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/classes/textfiles/CountWorld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/mvel2-2.4.4.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/slf4j-api-1.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/wicket-core-6.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/wicket-extensions-6.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/wicket-request-6.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/lib/wicket-util-6.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/p5myproject/WEB-INF/web.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,6 +289,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,6 +377,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,6 +392,22 @@
               <item name="p5myproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="p5myproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="p5myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p5myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p5myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p5myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="p5myproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="p5myproject" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,6 +416,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
@@ -410,17 +658,17 @@
       <workItem from="1686378252463" duration="273000" />
       <workItem from="1686378717411" duration="12000" />
       <workItem from="1686464198713" duration="1237000" />
-      <workItem from="1688107996331" duration="2455000" />
+      <workItem from="1688107996331" duration="4435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228287000" />
+    <option name="totallyTimeSpent" value="230267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -431,7 +679,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.37755102" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49829933" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.49829933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
